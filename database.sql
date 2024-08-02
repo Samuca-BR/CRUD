@@ -1,4 +1,4 @@
-CREATE DATABASE yourdbname;
+CREATE DATABASE CRUD;
 
 USE yourdbname;
 
